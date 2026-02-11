@@ -38,25 +38,40 @@ I work with **Python, SQL, Excel, and Power BI** to analyze real-world datasets,
 - 📈 Sales Performance Dashboard  
 - 🧹 Data Cleaning Project using Python
 
-----
+---
 
-🛠 Tech Stack
-📌 Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,sql,matlab" /> </p>
-🖥 Development Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" /> </p>
-📊 Data Analysis & Visualization
-<p align="center"> <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,plotly" /> </p>
-🎨 BI & Analytics
-<p align="center"> <!-- Power BI --> <a href="https://app.powerbi.com/"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </a> <!-- Excel --> <a href="https://www.microsoft.com/en-us/microsoft-365/excel"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </a> <!-- Tableau --> <a href="https://www.tableau.com/"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> </a> </p>
-🔧 Workflow & Productivity
-<p align="center"> <img src="https://skillicons.dev/icons?i=notion,trello,slack,postman" /> </p>
+## 🛠 Tech Stack  
+
+### 📌 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode" />
+</p>
+
+### 📊 Data & Visualization  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,matlab" />
+</p>
+
+### 🎨 BI & Analytics  
+<p align="center">
+
+  <!-- Power BI -->
+  <a href="https://app.powerbi.com/">
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </a>
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  </a>
+
+</p>
 
 ---
 
 ## 📬 Contact Me  
 - 📩 **Email:** alielrouby229@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/posts/ali-elrouby-a371ab337_dataanalytics-powerbi-dashboarddesign-activity-7425614207804538880-sf6h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSRdgsB8krkmfRnpA6GhC9Nh-fCSNCrqSA
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/ali-elrouby-a371ab337?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 🐙 **GitHub:** https://github.com/alielrouby299
 
 
